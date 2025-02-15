@@ -1,0 +1,38 @@
+/* * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav {
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 50px;
+    gap: 30px;
+}
+.nav > p {
+    font-size: 30px;
+    padding: 5px 15px;
+    transition: all .5s;
+    cursor: pointer;
+}
+.nav > p:hover {
+    background-color: brown;
+    color: white;
+}
+h1 {
+    background-color: lightblue;
+    min-height: 87vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 200px;
+}
+.active {
+    background-color: black;
+    color: white;
+} */
